@@ -65,6 +65,7 @@ To use other hands and objects, run:
 ```
 python demo.py --visualize --robot shadow --object_mesh_path ./assets/object/ycb/042_adjustable_wrench/textured.obj
 ```
+Ensure your object mesh is scaled to meter units before processing. ;)
 
 The supported hands are shown in ``lygrasp/robot/__init__.py``. We provide several examples in the repository. Please refer to the next section to setup your own hands.
 
