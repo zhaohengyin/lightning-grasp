@@ -1,7 +1,7 @@
 <center>
 
 # Lightning Grasp
-Public repository for the Lightning Grasp system.
+Public repository for the Lightning Grasp system. [paper](https://arxiv.org/abs/2511.07418)
 
 **Thousands of dexterous grasps in seconds.** 
 </center>
@@ -115,3 +115,15 @@ This software and its generated data are licensed for academic and research use 
 - Commercial services using this software/data
 
 A separate commercial license is required for any business use. Please contact the author for licensing terms.
+
+## Bibtex
+If this work helps your research, a citation would be greatly appreciated!
+```
+@article{yin2025lightninggrasp,
+  title   = {Lightning Grasp: High Performance Procedural Grasp Synthesis with Contact Fields},
+  author  = {Yin, Zhao-Heng and Abbeel, Pieter},
+  journal = {arXiv preprint arXiv:2511.07418},
+  year    = {2025},
+  url     = {https://arxiv.org/abs/2511.07418}
+}
+```
