@@ -10,7 +10,7 @@ Public repository for the Lightning Grasp system. [paper](https://arxiv.org/abs/
 ## System Requirements
 - Operating System: Ubuntu 22.04 or 24.04
 - GPU: NVIDIA GPU with Pascal, Volta/Turing, Ampere, or Ada Lovelace architecture
-
+- CUDA 12
 ## Install
 Follow these steps to set up the environment and dependencies.
 
