@@ -42,6 +42,8 @@ Done. (Do not merge these pip install into one line)
 ### Step 2. Setup CUDA Binaries
 This release includes pre-compiled CUDA kernel binaries. The CUDA C++ source code will be published in a future release.
 
+Supported Python Version: 3.8, 3.9, 3.10. See the release page for details. For other Python versions, please open an issue and I'll be happy to add support.
+
 **Setup Steps:**
 1. Download the appropriate compiled binaries for your Python version from the [Releases page](https://github.com/zhaohengyin/lightning-grasp/releases)
 2. Extract the downloaded files into the `lygra/cpp/build/` directory
