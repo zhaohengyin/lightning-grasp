@@ -14,7 +14,7 @@ Public repository for the Lightning Grasp system. [paper](https://arxiv.org/abs/
 Apr 23, 2026: We added mimic joint support.
 
 ### Tentative Future Release
-May 24, 2026: In our next release, we will integrate position iterations into kinematic fine-tuning to reduce hand–object penetrations. Stay tuned.
+May 24, 2026: In our next release, we will integrate position iterations into kinematic fine-tuning to reduce hand–object penetrations. This feature has been tested internally and will be pushed to the main branch. Stay tuned.
 
 ## System Requirements
 - Operating System: Ubuntu 22.04 or 24.04
