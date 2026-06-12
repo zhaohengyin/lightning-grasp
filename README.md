@@ -3,6 +3,8 @@
 # Lightning Grasp
 Public repository for the Lightning Grasp system. [paper](https://arxiv.org/abs/2511.07418)
 
+This is the core grasp generation engine used by Dexterity Gen and our subsequent works. 
+
 **Thousands of dexterous grasps in seconds.** 
 </center>
 
